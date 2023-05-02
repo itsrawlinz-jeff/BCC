@@ -1,0 +1,14 @@
+Confusion matrix of XGBoost model: 
+ [[40  2]
+ [ 1 71]] 
+
+Accuracy of XGBoost model =  0.9736842105263158
+
+      precision    recall  f1-score   support
+
+           0       1.00      0.93      0.96        42
+           1       0.96      1.00      0.98        72
+
+    accuracy                           0.97       114
+   macro avg       0.98      0.96      0.97       114
+weighted avg       0.97      0.97      0.97       114
