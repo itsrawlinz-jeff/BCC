@@ -1,3 +1,4 @@
+
 # Breast Cancer Detection 
 
 ![image](https://user-images.githubusercontent.com/107554669/235616620-7df9eb17-6e26-43d1-89eb-4f06472198c1.png)
@@ -26,6 +27,8 @@ The dataset has a total of 569 instances, each with 30 attributes. Out of these,
 
 It was obtained from the UCI Machine Learning Repository and was donated by Dr. William H. Wolberg, W. Nick Street, and Olvi L. Mangasarian. The dataset is widely used in the field of machine learning, particularly for classification tasks.
 
+![IMG_20230502_135721](https://user-images.githubusercontent.com/107554669/235624880-39272a5d-01fb-42d2-ae68-ac160f640e1f.jpg)
+
 # Project Overview:
 
 Breast cancer detection is a critical task that can save lives. In this project, we will be using machine learning algorithms to classify breast cancer is detected or not based on certain features.
@@ -39,6 +42,8 @@ Next, we will train and test our machine learning models using techniques such a
 Finally, we will deploy the best-performing model on a local host using Flask, which is a popular web development framework in Python. This will allow us to create a web interface that can accept input from the user and provide a prediction on whether the cancer is detected or not.
 
 Overall, this project will provide a practical introduction to machine learning and data visualization techniques while also addressing a critical real-world problem.
+
+![IMG_20230502_143538](https://user-images.githubusercontent.com/107554669/235625920-53d7be9a-c5c2-4158-8586-ad7f55971caf.jpg)
 
 # CREDITS:
 
